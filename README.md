@@ -124,5 +124,28 @@ if (colunaChute < (campoMinado[0].length -1) && campoMinado[linhaChute][colunaCh
                      System.out.format("Tem bomba próximo\n");
                 }
 ```
-###
-Obrigado por ler até aqui! ❤
+
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/JuanSantos64/Campo-Minado.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Rode o projeto em alguma IDE Java, o arquivo java deve ter o nome de "CampoMinado.java".
+
+
+
+## Aprendizados
+
+Durante a criação desse jogo, tive diversos desafios como a parte da verificação de bomba próximo e a parte de implementar as bombas na matriz. Descobri que os desafios são coisas comuns em todos os códigos e que a persistencia para supera-los, nos torna ótimos programadores.
+
+### Obrigado por ler até aqui! ❤
